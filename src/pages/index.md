@@ -125,5 +125,7 @@ seo:
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
       value: images/hero.png
+    - name: lorem-ipsum
+      value: lorem-ipsum
 template: landing
 ---
